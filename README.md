@@ -227,7 +227,7 @@ kubectl apply -f network-policies.yaml
 
 ### Frontend -> Backend (Успешно): `kubectl exec -it deployment/frontend -n app -- curl -m 3 backend-svc`
 
-![Описание](frontend_backend.png)
+![Frontend -> Backend](https://github.com/Dmitriy-py/How-the-network-works-in-K8s/commit/ef73ef30a18d78ebdb66decca7ba9b33f8d8cdd9)
 
 
 
