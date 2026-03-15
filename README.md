@@ -232,8 +232,7 @@ kubectl apply -f network-policies.yaml
 ### Backend -> Cache (Успешно): `kubectl exec -it deployment/backend -n app -- curl -m 3 cache-svc`
 
 
-
-
+![Backend -> Cache](https://github.com/Dmitriy-py/How-the-network-works-in-K8s/blob/f6133234686c2ab3968dc7e17cbd8c53865dc133/Backend_Cache.png)
 
 
 
